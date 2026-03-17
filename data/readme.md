@@ -1,4 +1,4 @@
-Nyayamind - Data Repository
+## Nyayamind - Data Repository
 
 This repository contains the datasets used for training, validating, and testing various models for structured legal reasoning in legal documents. The datasets are provided in JSON formats. Below is a detailed explanation of the dataset organization and file structure. This repository also contains the NyayaMindDB dataset that forms the core of the RAG setup for NyayaMind system. The NyayaMindDB consists of 4 different collections 
 
