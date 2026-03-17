@@ -17,6 +17,12 @@ Copy the following files in a folder named as dataset inside the code directory 
 - val.json
 - test.json
 
+To access the NyayamindDB and the training dataset head over to the [drive](https://drive.google.com/drive/folders/1p6YUJWU_MD57cV4zGXBaLdAblB_lwxt8?usp=drive_link)
+
+
+The directory structure for the dataset folder is visible below. 
+
+```bash
 data/
 │
 ├── train.json            # Training data partition
@@ -26,3 +32,4 @@ data/
 ├── HC/                   # High Court records
 ├── SA/                   # State Acts
 └── CA/                   # Central Acts
+

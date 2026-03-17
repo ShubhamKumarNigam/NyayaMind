@@ -11,7 +11,7 @@ We trained the below models using Supervised fine-tuning (SFT) adopting a parame
 - Phi-4-reasoning (16-bit)
 - Qwen3.5-27B (16-bit)
 
-The best performing model Qwen3.5-27B model along with the LoRA Adaptors are available at the following link.
+The best performing model Qwen3.5-27B model along with the LoRA Adaptors are available at the [drive](https://drive.google.com/drive/folders/154VMFASsRmLDJ3zeLezUYVea2KPDU9tt?usp=sharing)
 
 To run inference on a list of samples, with the state-of-the-art (SOTA) model run the following command: 
 
